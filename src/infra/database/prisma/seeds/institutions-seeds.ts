@@ -1,4 +1,4 @@
-import { Institutions } from '../../../../domain/institutions/entities/Institution'
+import { Institutions } from '../../../../domain/finances/enterprise/entities/Institution'
 import fs from 'fs'
 import { PrismaClient } from '@prisma/client'
 import path from 'path'

@@ -3,9 +3,9 @@ App com intuito didadico e não para fins comerciais, desenvolvido com o intuito
 
 ## Backlog
 
-- Deve ser possivel fazer o modificar(criar, editar, listar) de uma despesa, com a data retrogada;
-- Deve ser possivel fazer o modificar(criar, editar, listar) de uma receita, com a data retrogada;
-- Deve ser possivel fazer o modificar(criar, editar, listar) de categorias;
+- Deve ser possivel fazer modifica;'oes(criar, editar, listar) de uma despesa, com a data retrogada;
+- Deve ser possivel fazer modifica;'oes(criar, editar, listar) de uma receita, com a data retrogada;
+- Deve ser possivel fazer modifica;'oes(criar, editar, listar) de categorias;
 - Deve ser possivel incluir observação em uma despesa ou receita;
 - Deve ser possivel fazer a visualização de um relatório de despesas e receitas;
 
